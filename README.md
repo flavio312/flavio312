@@ -4,7 +4,7 @@
 - 💻 Desarrollador apasionado por la tecnología
 - 🌱 Actualmente aprendiendo nuevas tecnologías
 - 🎯 Enfocado en crear soluciones innovadoras
-- 📍 Ubicado en [Tu Ciudad]
+- 📍 Ubicado en Tuxtla Gutierrez
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -31,49 +31,30 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=flavio312&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=flavio312&layout=compact&theme=radical)
 
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical)
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=flavio312&theme=radical)
 
-## 🏆 Proyectos Destacados
-
-### 📱 [Nombre del Proyecto 1](link-al-repo)
-Descripción breve del proyecto y las tecnologías utilizadas.
-- **Tech Stack:** React, Node.js, MongoDB
-- **Características:** Lista de características principales
-
-### 🌐 [Nombre del Proyecto 2](link-al-repo)
-Descripción breve del proyecto y las tecnologías utilizadas.
-- **Tech Stack:** Python, Flask, MySQL
-- **Características:** Lista de características principales
-
-### 🎮 [Nombre del Proyecto 3](link-al-repo)
-Descripción breve del proyecto y las tecnologías utilizadas.
-- **Tech Stack:** JavaScript, HTML5, CSS3
-- **Características:** Lista de características principales
 
 ## 🌱 Actualmente estoy...
-- 📚 Aprendiendo nuevas tecnologías como [tecnología]
-- 🔭 Trabajando en [proyecto actual]
+- 📚 Aprendiendo nuevas tecnologías
+- 🔭 Busqueda de empleo.
 - 🤝 Buscando colaborar en proyectos open source
 - 💬 Pregúntame sobre desarrollo web, programación o tecnología
 
 ## 📫 ¿Cómo contactarme?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/flavio-cesar-diaz-b8b8aa2a2/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:flavio3124c@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](#)
 
 ## ⚡ Dato curioso
-Comparte algo interesante sobre ti, tu pasión por la programación, o un hobby.
-
----
+El trabajar con un equipo de amigos es divertido, pero trabajar con un verdadero equipo entregable es mas interesante.
 
 💡 *"La mejor manera de predecir el futuro es creándolo"* - Alan Kay
 
-⭐️ Desde [Tu Usuario](https://github.com/TU_USUARIO)
+⭐️ Desde [Tu Usuario](https://github.com/flavio312)
 
 ![Visitantes del perfil](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet)
